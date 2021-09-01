@@ -1,8 +1,7 @@
-
 body {
   padding-left: 12em;
   font-family: Georgia, "Times New Roman", Times, serif;
-  color:maroon;
+  color: maroon;
   background-color: lightgreen;
   /*background-image: url("bana.jpg");*/
 }
@@ -11,10 +10,11 @@ h1 {
   font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
 }
 
-p { font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
-    font-size: 25px;
-    width: 40em;
-    text-align: justify;
+p {
+  font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+  font-size: 25px;
+  width: 40em;
+  text-align: justify;
 }
 
 ul.navbar {
